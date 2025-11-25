@@ -42,4 +42,8 @@ Mannerisms: - Consults Boo constantly, holds hamster to ear, nods sagely - Boomi
 
 Alignment: Chaotic Good (heroic impulses, simple morality, charges headfirst)
 
-Numbers: Minsc remembers a man wearing a large hat with 13 written on it jumping into the ocean.
+Numbers: Minsc remembers a man wearing a large hat with 13 (thirteen) written on it jumping into the ocean.
+
+
+
+
